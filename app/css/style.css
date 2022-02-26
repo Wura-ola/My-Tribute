@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black;
+    color: brown;
+}
+
+.section{
+    max-width: 1070px;
+     margin: 0 auto; 
+     max-height: 1000px;
+
+   
+}
+
+.firsthead{
+     padding-bottom: 30px;
+     margin-left: 30%;
+     margin-top: 10%;
+}
+.images{
+     padding-top: 70px; 
+     width: 500px;
+     height: 400px;
+    
+}
+
+.head3{
+    color: violet;
+    margin-left: -520px;
+    margin-top: 45%;
+}
+
+.together{
+    display: flex
+}
+ 
+
+.div1{
+    color: whitesmoke;
+    margin-left: 20px;
+    max-width: 600px;
+margin-top: -30px;
+}
+.about2:hover{
+    color: red;
+
+}
+.Achi:hover{
+    color: red;
+}
+.about{
+    padding-top: 100px;
+    margin-left: 350px; 
+    
+}
+
+
+
+    
